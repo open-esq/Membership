@@ -1,5 +1,5 @@
 # Membership
-List of OpenESQ Members 
+List of Open, ESQ LLC Members 
 
 | Name / Keybase | Ethereum Address |
 |----------|:-------------:|
