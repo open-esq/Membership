@@ -1,7 +1,7 @@
 ### [Membership & Contribution Vote Tracking](https://mainnet.aragon.org/#/openesq.aragonid.eth/0x5001ad312246ecbd3b33f1d60ae7ae009210a2cd) 🗳️
 
 # Membership
-List of Open, ESQ LLC Members 
+List of [Open, ESQ LLC](https://mainnet.aragon.org/#/openesq.aragonid.eth/) Members 
 
 | Name / Keybase | Ethereum Address |
 |----------|:-------------:|
