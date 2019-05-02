@@ -12,5 +12,5 @@ List of Open, ESQ LLC Members
 | Name / Keybase | Ethereum Address | OpenESQ Contributor Credit |
 |----------|:-------------:|:-------------:|
 | Alex Fagella | [`0x756CE9C56B02f05b5FaFfaFc707B552bEDce83eE`](https://etherscan.io/address/0x756ce9c56b02f05b5faffafc707b552bedce83ee) | * |
-| Chelsea Palmer [chiselinc](https://keybase.io/chiselinc) | [`0xed08785867B434473f175aEE5018a8747d240EA0`](https://etherscan.io/address/0xed08785867b434473f175aee5018a8747d240ea0) | 1 |
+| Chelsea Palmer / [chiselinc](https://keybase.io/chiselinc) | [`0xed08785867B434473f175aEE5018a8747d240EA0`](https://etherscan.io/address/0xed08785867b434473f175aee5018a8747d240ea0) | 1 |
 
