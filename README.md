@@ -1,6 +1,6 @@
 ### [Membership & Contribution Vote Tracking](https://mainnet.aragon.org/#/openesq.aragonid.eth/0x5001ad312246ecbd3b33f1d60ae7ae009210a2cd) 🗳️
 
-# Membership
+# Membership 🏵️
 List of [Open, ESQ LLC](https://twitter.com/OpenESQ) Members 
 
 | Name / Keybase | Ethereum Address |
@@ -9,7 +9,7 @@ List of [Open, ESQ LLC](https://twitter.com/OpenESQ) Members
 | Robert Leonhard | [`0xcC4Dc8e92A6E30b6F5F6E65156b121D9f83Ca18F`](https://etherscan.io/address/0xcc4dc8e92a6e30b6f5f6e65156b121d9f83ca18f) |
 | Joshua Ma | [`0xD5265358495C6744267BDbAA0C4a7eFcf8182a8F`](https://etherscan.io/address/0xd5265358495c6744267bdbaa0c4a7efcf8182a8f) |
 
-## Contributors
+## Contributors 🔧
 
 | Name / Keybase | Ethereum Address | OpenESQ Contributor Credit |
 |----------|:-------------:|:-------------:|
