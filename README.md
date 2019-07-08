@@ -9,7 +9,14 @@ List of [Open, ESQ LLC](https://twitter.com/OpenESQ) Members
 | Robert Leonhard | [`0xcC4Dc8e92A6E30b6F5F6E65156b121D9f83Ca18F`](https://etherscan.io/address/0xcc4dc8e92a6e30b6f5f6e65156b121d9f83ca18f) |
 | Joshua Ma | [`0xD5265358495C6744267BDbAA0C4a7eFcf8182a8F`](https://etherscan.io/address/0xd5265358495c6744267bdbaa0c4a7efcf8182a8f) |
 
-## Contributors 🔧
+## Associates 💪
+
+| Name / Keybase | Ethereum Address | Role |
+|----------|:-------------:|:-------------:|
+| Alex Fagella | [`0x756CE9C56B02f05b5FaFfaFc707B552bEDce83eE`](https://etherscan.io/address/0x756ce9c56b02f05b5faffafc707b552bedce83ee) | Junior Legal Engineer |
+
+
+### Contributors 🔧
 
 | Name / Keybase | Ethereum Address | OpenESQ Contributor Credit |
 |----------|:-------------:|:-------------:|
