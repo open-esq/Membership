@@ -1,4 +1,4 @@
-### [Membership & Contribution Vote Tracking](https://mainnet.aragon.org/#/openesq.aragonid.eth/0x5001ad312246ecbd3b33f1d60ae7ae009210a2cd) 🗳️
+### [Membership & Contribution Vote Tracking](https://mainnet.aragon.org/#/openesquire) 🗳️
 
 # Membership 🏵️
 List of [Open, ESQ LLC](https://twitter.com/OpenESQ) Members 
