@@ -21,7 +21,7 @@ List of [Open, ESQ LLC](https://twitter.com/OpenESQ) Members
 | Name / Keybase | Ethereum Address | OpenESQ Contributor Credit |
 |----------|:-------------:|:-------------:|
 | Alex Fagella | [`0x756CE9C56B02f05b5FaFfaFc707B552bEDce83eE`](https://etherscan.io/address/0x756ce9c56b02f05b5faffafc707b552bedce83ee) | 10 |
-| Faith Obafemi | [`0x423afc4406d10C726d5d664D2997571e69D1875F`](https://etherscan.io/address/	0x423afc4406d10C726d5d664D2997571e69D1875F) | 4 |
+| Faith Obafemi | [`0x423afc4406d10C726d5d664D2997571e69D1875F`](https://etherscan.io/address/0x423afc4406d10C726d5d664D2997571e69D1875F) | 4 |
 | Alex Perry | [`0x08cEFF8208590252BFaB6d2BA6496a34a996C195`](https://etherscan.io/address/0x08cEFF8208590252BFaB6d2BA6496a34a996C195) | 3 |
 | Chelsea Palmer / [chiselinc](https://keybase.io/chiselinc) | [`0xed08785867B434473f175aEE5018a8747d240EA0`](https://etherscan.io/address/0xed08785867b434473f175aee5018a8747d240ea0) | 2 |
 | Austin George | [`0x64c0e885cdd1F5B526f5520beE328aA811418afc`](https://etherscan.io/address/0x64c0e885cdd1F5B526f5520beE328aA811418afc) | 1 |
